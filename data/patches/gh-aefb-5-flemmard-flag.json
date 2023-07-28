@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "5 flemmard flag",
+	"description": "The flag of a country created by friends on a Minecraft realm",
+	"links": {},
+	"path": {
+		"6-9": [
+			[
+				194,
+				49
+			],
+			[
+				194,
+				49
+			],
+			[
+				201,
+				49
+			],
+			[
+				201,
+				54
+			],
+			[
+				194,
+				54
+			],
+			[
+				194,
+				50
+			]
+		]
+	},
+	"center": {
+		"6-9": [
+			198,
+			52
+		]
+	}
+}
